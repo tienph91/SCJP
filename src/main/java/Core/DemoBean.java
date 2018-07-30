@@ -1,4 +1,4 @@
-package Core;
+package main.java.Core;
 
 public class DemoBean {
 

@@ -1,4 +1,4 @@
-package Core;
+package main.java.Core;
 
 class ThreadTestDrive {
     public static void main(String[] args) {
